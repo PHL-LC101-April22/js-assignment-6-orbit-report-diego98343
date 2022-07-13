@@ -1,0 +1,14 @@
+button {
+	margin-left: 90px;
+	color: #fff;
+	background-color: #009b25;
+	border-radius: 4px;
+	padding: 2px 5px;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.header-row {
+	background: #34495E;
+	color: #fff
+}
