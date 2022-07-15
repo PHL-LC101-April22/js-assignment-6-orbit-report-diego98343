@@ -11,7 +11,8 @@ export class AppComponent {
 
   sourceList: Satellite[];
   displayList: Satellite[];
-
+  
+  
 	constructor() {
 		this.sourceList = [];
 		this.displayList = [];
